@@ -1,1 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
 
+# Test results
+coverage/
+*.cover
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Configuration files
+config.yaml
