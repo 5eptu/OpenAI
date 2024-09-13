@@ -1,1 +1,8 @@
+# Example of a script to train a model (this is just a placeholder)
+
+def train_model():
+    print("Training model...")
+
+if __name__ == "__main__":
+    train_model()
 
